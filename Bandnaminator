@@ -1,0 +1,4 @@
+print("Welcome to the Bandnaminator!!!")
+city = input("which city did you grow up in?\n)
+pet = input("What is the name of your first pet?\n)
+print("THe name of your band is: " +city + pet)
